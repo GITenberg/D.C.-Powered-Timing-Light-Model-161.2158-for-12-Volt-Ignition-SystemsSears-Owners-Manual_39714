@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '40173'
     url: http://www.gutenberg.org/2009/agents/40173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39714#D.C.-Powered-Timing-Light-Model-161.2158-for-12-Volt-Ignition-SystemsSears-Owners-Manual
 gutenberg_issued: '2012-05-16'
 gutenberg_type: Text
 identifiers:
